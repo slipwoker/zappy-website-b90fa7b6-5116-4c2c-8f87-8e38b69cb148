@@ -1,0 +1,102 @@
+# HandleHub — Generative Engine Optimization Map
+
+> A marketplace platform dedicated to buying and selling social media accounts across all major platforms including Instagram, Facebook, TikTok, Twitter, YouTube, and more. The business facilitates transactions between sellers who want to monetize their established accounts and buyers looking to acquire ready-made social media presence with existing followers and engagement.
+
+---
+
+## Pages
+
+### Home
+https://handlehub-b90fa7b6.zappy5.app
+Skip the grind and buy verified social media accounts with real followers. Score YouTube Music free access, premium-ready profiles, and instant influence today.
+
+### How It Works
+https://handlehub-b90fa7b6.zappy5.app/how-it-works
+Learn how our secure marketplace turns your unused profiles into cash or lets you acquire YouTube Music playlist-curated accounts with active engagement in minutes.
+
+### About
+https://handlehub-b90fa7b6.zappy5.app/about
+We built HandleHub to make social media account trading safe and rewarding. Discover how we help you bypass YouTube Premium cost and grow faster with pre-built audiences.
+
+### Contact
+https://handlehub-b90fa7b6.zappy5.app/contact
+Ready to buy or sell? Reach out and let our team guide you to YouTube Music free-ready profiles, transparent pricing, and zero-hassle transfers. Let&#39;s talk growth.
+
+### Products
+https://handlehub-b90fa7b6.zappy5.app/products
+Our Products - HandleHub
+
+### Cart
+https://handlehub-b90fa7b6.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://handlehub-b90fa7b6.zappy5.app/checkout
+Checkout
+
+### Login
+https://handlehub-b90fa7b6.zappy5.app/login
+Customer Login
+
+### Account
+https://handlehub-b90fa7b6.zappy5.app/account
+My Account
+
+### Order Success
+https://handlehub-b90fa7b6.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://handlehub-b90fa7b6.zappy5.app/product/:slug
+Product Details - HandleHub
+
+### Category
+https://handlehub-b90fa7b6.zappy5.app/category/:slug
+Products - HandleHub
+
+## Legal & Policy
+
+### Privacy Policy
+https://handlehub-b90fa7b6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://handlehub-b90fa7b6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://handlehub-b90fa7b6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HandleHub
+A marketplace platform dedicated to buying and selling social media accounts across all major platforms including Instagram, Facebook, TikTok, Twitter, YouTube, and more. The business facilitates transactions between sellers who want to monetize their established accounts and buyers looking to acquire ready-made social media presence with existing followers and engagement.
+
+## Target Audience
+- Influencer Entrepreneurs
+- Digital Marketing Firms
+- Niche Community Builders
+- E-commerce Startups
+- Content Creators
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://handlehub-b90fa7b6.zappy5.app/sitemap.xml
+- Robots: https://handlehub-b90fa7b6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://handlehub-b90fa7b6.zappy5.app/llms-full.txt
+- Products (JSON): https://handlehub-b90fa7b6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://handlehub-b90fa7b6.zappy5.app/product-feed.xml
